@@ -47,7 +47,7 @@ La idea de esta web app orientándola hacia hábitos que mejoren su calidad de v
 
 1. **Clonar el repositorio**:
 ```bash
-git clone 
+git clone https://github.com/CamiloToroUCC/Taller-Ui-2025.git
 cd bmi-calculator
 ```
 
