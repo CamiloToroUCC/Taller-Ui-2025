@@ -1,13 +1,11 @@
 @import "tailwindcss";
 
-/* Paleta de colores personalizada */
 :root {
   --color-primary: hsl(252, 53%, 21%);  /* Púrpura vibrante */
   --color-accent: hsl(30, 100%, 50%);   /* Naranja vibrante */
   --color-neutral: hsl(0, 0%, 95%);     /* Gris claro */
 }
 
-/* Clases personalizadas */
 .bg-primary {
   background-color: var(--color-primary) !important;
 }

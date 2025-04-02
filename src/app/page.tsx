@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 
-// Tipos simplificados
+// Tipodos para TypeScript
 type Gender = "male" | "female";
 type BmiCategory = "underweight" | "normal" | "overweight";
 type InfoType = "diet" | "exercise";
